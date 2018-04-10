@@ -1,4 +1,2 @@
 # calculator
-A calculator in basic c
-made by Sai Saketh Aluru 
-16CS30030
+  Terminal based calculator made in C as part of KOSS task submission
